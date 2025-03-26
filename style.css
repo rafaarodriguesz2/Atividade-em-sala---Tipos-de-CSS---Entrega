@@ -1,3 +1,7 @@
+*{
+    font-family: monospace;
+}
+
 .card {
     width: 500px;
     height: fit-content;
